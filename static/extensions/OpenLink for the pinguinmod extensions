@@ -12,7 +12,7 @@ class OpenLinkExtension {
                     arguments: {
                         URL: {
                             type: Scratch.ArgumentType.STRING,
-                            defaultValue: 'https://turbowarp.org/editor'
+                            defaultValue: 'https://studio.penguinmod.com/editor.html'
                         }
                     }
                 },
@@ -23,7 +23,7 @@ class OpenLinkExtension {
                     arguments: {
                         URL: {
                             type: Scratch.ArgumentType.STRING,
-                            defaultValue: 'https://turbowarp.org/editor'
+                            defaultValue: 'https://studio.penguinmod.com/editor.html'
                         }
                     }
                 }
